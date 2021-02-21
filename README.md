@@ -15,6 +15,8 @@ https://leetcode.com/problems/design-skiplist/
 # Search, insertion and deletion
 https://www.youtube.com/watch?v=YZ5ef_HiHJ8
 
+https://www.youtube.com/watch?v=7pWkspmYUVo&feature=youtu.be
+
 https://www.youtube.com/watch?v=Q9MdwzewSZg  
 # Reference 
 https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/SkipList.html
