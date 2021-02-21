@@ -13,6 +13,8 @@ https://leetcode.com/problems/design-skiplist/
 - But it provides good performance with extremely high probability 
 - As such, it represents a good compromise between difficulties of implementation and performance. 
 # Search, insertion and deletion
+https://www.youtube.com/watch?v=YZ5ef_HiHJ8
+
 https://www.youtube.com/watch?v=Q9MdwzewSZg  
 # Reference 
 https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/SkipList.html
